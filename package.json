@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code day 4 solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gregorius Andito Herjuno",
+  "license": "ISC"
+}
